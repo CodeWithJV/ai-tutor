@@ -1,4 +1,6 @@
-*I created this repo as part of the [codewithjv.com](http://codewithjv.com) project. Sign up if you want a weekly email on learning to code using AI assistants or [subscribe on youtube](https://www.youtube.com/@LearnCodeWithJV) for more good stuff.*
+*I created this repo as part of the [codewithjv.com](http://codewithjv.com) project where I am exploring the impacts of AI tools on education and teaching people how to code.*
+
+*[Sign up if you want a weekly email](http://codewithjv.com/newsletter) on learning to code using AI assistants or [subscribe on youtube](https://www.youtube.com/@LearnCodeWithJV) for more good stuff.*
 
 # AI Tutor: A prompt for configuring your personal teacher
 
