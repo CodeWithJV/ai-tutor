@@ -1,7 +1,3 @@
-*I created this repo as part of the [codewithjv.com](http://codewithjv.com) project where I am exploring the impacts of AI tools on education and teaching people how to code.*
-
-*[Sign up if you want a weekly email](http://codewithjv.com/newsletter) on learning to code using AI assistants or [subscribe on youtube](https://www.youtube.com/@LearnCodeWithJV) for more good stuff.*
-
 # AI Tutor: A prompt for configuring your personal teacher
 
 This repository provides you with a prompt designed to help you learn and practice new skills using ChatGPT. The prompt has been primarily tested with GPT-3.5, and it has been created to:
@@ -46,4 +42,10 @@ I haven't taken the prompt for a spin on other LLMs and would love to hear how i
 
 ## A note on markdown
 Markdown is a lightweight text formatting syntax designed to be both human-readable and easily convertible to HTML. It allows you to write and structure content using simple punctuation and characters. You can edit Markdown files using any text editor, such as Visual Studio Code, Notepad++, or Sublime Text. To learn more about Markdown and its syntax, you can visit the official [Markdown Guide](https://www.markdownguide.org/) or browse other resources and tutorials available online.
+
+---
+
+*I created this repo as part of the [codewithjv.com](http://codewithjv.com) project where I am exploring the impacts of AI tools on education and teaching people how to code.*
+
+*[Sign up if you want a weekly email](http://codewithjv.com/newsletter) on learning to code using AI assistants or [subscribe on youtube](https://www.youtube.com/@LearnCodeWithJV) for more good stuff.*
 
